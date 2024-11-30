@@ -1,0 +1,1 @@
+# RSOP-Group-Policy-Task-Manager-Disable-Logoff
